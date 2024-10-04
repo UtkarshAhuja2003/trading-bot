@@ -1,0 +1,45 @@
+{
+    "trades": [
+      {
+        "id": 1,
+        "stockSymbol": "AAPL",
+        "action": "BUY",
+        "price": 147.00,
+        "quantity": 10,
+        "timestamp": "2024-10-04T10:05:00Z"
+      },
+      {
+        "id": 2,
+        "stockSymbol": "AAPL",
+        "action": "SELL",
+        "price": 153.00,
+        "quantity": 10,
+        "timestamp": "2024-10-04T10:10:00Z"
+      },
+      {
+        "id": 3,
+        "stockSymbol": "TSLA",
+        "action": "BUY",
+        "price": 710.00,
+        "quantity": 5,
+        "timestamp": "2024-10-04T10:15:00Z"
+      },
+      {
+        "id": 4,
+        "stockSymbol": "AMZN",
+        "action": "BUY",
+        "price": 3280.00,
+        "quantity": 2,
+        "timestamp": "2024-10-04T10:20:00Z"
+      },
+      {
+        "id": 5,
+        "stockSymbol": "TSLA",
+        "action": "SELL",
+        "price": 730.00,
+        "quantity": 5,
+        "timestamp": "2024-10-04T10:25:00Z"
+      }
+    ]
+  }
+  

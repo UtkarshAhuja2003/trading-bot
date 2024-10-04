@@ -1,0 +1,19 @@
+{
+    "botState": {
+      "balance": 5000.00,
+      "positions": [
+        {
+          "stockSymbol": "TSLA",
+          "quantity": 5,
+          "averageBuyPrice": 710.00
+        },
+        {
+          "stockSymbol": "AMZN",
+          "quantity": 2,
+          "averageBuyPrice": 3280.00
+        }
+      ],
+      "profitLoss": 80.00
+    }
+  }
+  
