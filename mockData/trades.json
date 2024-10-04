@@ -1,45 +1,170 @@
-{
-    "trades": [
-      {
-        "id": 1,
-        "stockSymbol": "AAPL",
-        "action": "BUY",
-        "price": 147.00,
-        "quantity": 10,
-        "timestamp": "2024-10-04T10:05:00Z"
-      },
-      {
-        "id": 2,
-        "stockSymbol": "AAPL",
-        "action": "SELL",
-        "price": 153.00,
-        "quantity": 10,
-        "timestamp": "2024-10-04T10:10:00Z"
-      },
-      {
-        "id": 3,
-        "stockSymbol": "TSLA",
-        "action": "BUY",
-        "price": 710.00,
-        "quantity": 5,
-        "timestamp": "2024-10-04T10:15:00Z"
-      },
-      {
-        "id": 4,
-        "stockSymbol": "AMZN",
-        "action": "BUY",
-        "price": 3280.00,
-        "quantity": 2,
-        "timestamp": "2024-10-04T10:20:00Z"
-      },
-      {
-        "id": 5,
-        "stockSymbol": "TSLA",
-        "action": "SELL",
-        "price": 730.00,
-        "quantity": 5,
-        "timestamp": "2024-10-04T10:25:00Z"
-      }
-    ]
+[
+  {
+    "type": "BUY",
+    "price": 163.25,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 163.5,
+    "timestamp": "2024-10-04T15:00:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 164,
+    "timestamp": "2024-10-04T15:10:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 164.5,
+    "timestamp": "2024-10-04T15:20:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165,
+    "timestamp": "2024-10-04T15:30:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165.25,
+    "timestamp": "2024-10-04T15:40:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165.75,
+    "timestamp": "2024-10-04T15:50:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166,
+    "timestamp": "2024-10-04T16:00:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166.25,
+    "timestamp": "2024-10-04T16:10:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166.5,
+    "timestamp": "2024-10-04T16:20:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 167,
+    "timestamp": "2024-10-04T16:30:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 749,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "TSLA"
+  },
+  {
+    "type": "BUY",
+    "price": 3329,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "AMZN"
+  },
+  {
+    "type": "BUY",
+    "price": 163.25,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 163.5,
+    "timestamp": "2024-10-04T15:00:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 164,
+    "timestamp": "2024-10-04T15:10:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 164.5,
+    "timestamp": "2024-10-04T15:20:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165,
+    "timestamp": "2024-10-04T15:30:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165.25,
+    "timestamp": "2024-10-04T15:40:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 165.75,
+    "timestamp": "2024-10-04T15:50:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166,
+    "timestamp": "2024-10-04T16:00:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166.25,
+    "timestamp": "2024-10-04T16:10:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 166.5,
+    "timestamp": "2024-10-04T16:20:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 167,
+    "timestamp": "2024-10-04T16:30:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 749,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "TSLA"
+  },
+  {
+    "type": "BUY",
+    "price": 163.25,
+    "timestamp": "2024-10-04T14:50:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 163.5,
+    "timestamp": "2024-10-04T15:00:00Z",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "BUY",
+    "price": 164,
+    "timestamp": "2024-10-04T15:10:00Z",
+    "symbol": "AAPL"
   }
-  
+]

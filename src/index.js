@@ -2,7 +2,7 @@ const express = require('express');
 const tradeController = require('./controllers/tradeController');
 
 const app = express();
-
+app.use(express.json());
 
 app.use('/api/trade', tradeController);
 

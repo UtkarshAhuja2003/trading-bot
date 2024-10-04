@@ -1,19 +1,18 @@
 {
-    "botState": {
-      "balance": 5000.00,
-      "positions": [
-        {
-          "stockSymbol": "TSLA",
-          "quantity": 5,
-          "averageBuyPrice": 710.00
-        },
-        {
-          "stockSymbol": "AMZN",
-          "quantity": 2,
-          "averageBuyPrice": 3280.00
-        }
-      ],
-      "profitLoss": 80.00
+  "cash": 48.25,
+  "holdings": {
+    "AAPL": {
+      "quantity": 25,
+      "averageBuyPrice": 164.99
+    },
+    "TSLA": {
+      "quantity": 2,
+      "averageBuyPrice": 749
+    },
+    "AMZN": {
+      "quantity": 1,
+      "averageBuyPrice": 3329
     }
-  }
-  
+  },
+  "initialCapital": 0
+}
